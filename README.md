@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://react-movie-app-ten-murex.vercel.app" target="_blank">
+    <a href="" target="_blank">
       <img src="https://github.com/keroles-naeem/Movies_KN/blob/main/public/s-carousel.png" alt="Project">
     </a>
   <br />
