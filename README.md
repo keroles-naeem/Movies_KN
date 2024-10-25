@@ -100,7 +100,7 @@ Distributed under the [MIT License](LICENSE) , click for more information.
     <img src="https://github.com/keroles-naeem/Movies_KN/blob/main/public/s-movieWall.png" alt="movieWall" />
     <img src="https://github.com/keroles-naeem/Movies_KN/blob/main/public/s-movies.png" alt="movies" />
     <img src="https://github.com/keroles-naeem/Movies_KN/blob/main/public/s-pagination.png" alt="pagination" />
-    <img src="https://github.com/keroles-naeem/Movies_KN/main/public/s-search.png" alt="search" />
+    <img src="https://github.com/keroles-naeem/Movies_KN/blob/main/public/s-search.png" alt="search" />
 </div>
 
 
