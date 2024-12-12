@@ -31,7 +31,7 @@
 
 ## <a name="Deployment">🚀 Deployment</a>
 
-#### https://react-movie-app-ten-murex.vercel.app/
+#### https://movies-kn.vercel.app/
 
 ## <a name="introduction">🤖 Introduction</a>
 
